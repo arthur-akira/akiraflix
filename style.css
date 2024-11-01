@@ -1,0 +1,65 @@
+body {
+    color:darkred;
+    background: black;
+    margin: 0px;
+    
+}
+
+header {
+    border-bottom: solid 1px darkred;
+    padding: 20px;
+    font-size: 32px;
+    font-style: italic;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 40px
+}
+
+section {
+    background: firebrick;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: "Creepster", system-ui;
+}
+
+.section-2{
+    background: black;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.texto-2 {
+    font-family: "Nosifer", sans-serif;
+
+}
+
+.texto-video-2 {
+    margin-right: 5%;
+    
+}
+
+.chamada-texto-3 {
+    font-family: "Henny Penny", system-ui;
+    margin-right: 5%;
+}
+
+.mama-agnes-texto {
+    font-family: "Trade Winds", system-ui;
+    margin-right: 5%;
+}
+
+.makemeasanduich {
+    font-family: "Bahiana", sans-serif;
+    margin-right: 5%;
+}
